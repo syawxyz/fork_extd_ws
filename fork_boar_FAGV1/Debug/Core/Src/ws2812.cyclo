@@ -1,0 +1,7 @@
+../Core/Src/ws2812.c:22:13:ws2812_update_buffer	13
+../Core/Src/ws2812.c:109:22:zeroLedValues	3
+../Core/Src/ws2812.c:123:22:setLedValue	2
+../Core/Src/ws2812.c:136:23:setLedValues	2
+../Core/Src/ws2812.c:149:22:ws2812_init	3
+../Core/Src/ws2812.c:186:6:ws2812_begin_frame	4
+../Core/Src/ws2812.c:194:6:ws2812_commit_frame	1
